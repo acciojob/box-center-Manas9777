@@ -5,13 +5,13 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            border-top-width: 2px solid black;
         }
         .box{
             display: flex;
             justify-content: center;
             align-items: center;
             background-color:lightblue;
-            border-top-width: 2px solid black;
 			border: 2px solid black;
             /* border-radius: 8px; */
             height: 200px;
