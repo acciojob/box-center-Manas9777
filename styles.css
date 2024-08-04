@@ -11,9 +11,11 @@
             justify-content: center;
             align-items: center;
             background-color:lightblue;
-            border: 2px solid black;
+            border-top-width: 2px solid black;
+			border: 2px solid black;
             /* border-radius: 8px; */
             height: 200px;
             width: 200px;
             transition: all 1s ease-in-out;
+			color: purple;
         }
